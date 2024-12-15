@@ -1,4 +1,4 @@
-<p align="center"><a href="https://dominic-myb.github.io"><img width="80%" alt="Hi, I'm Dominic! I Code Websites That Won't Make You Say 'Say My Name,' But Maybe ‘That’s Pretty Cool." src="./assets/img/dominic_header.png" /></a></p>
+<p align="center"><a href="https://dominic-myb.github.io"><img width="100%" alt="Hi, I'm Dominic! I Code Websites That Won't Make You Say 'Say My Name,' But Maybe ‘That’s Pretty Cool." src="./assets/img/dominic_header.png" /></a></p>
 
 <br>
 

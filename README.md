@@ -1,7 +1,5 @@
 <p align="center"><a href="https://dominic-myb.github.io"><img width="100%" alt="Hi, I'm Dominic! I Code Websites That Won't Make You Say 'Say My Name,' But Maybe ‘That’s Pretty Cool." src="./assets/img/dominic_header.png" /></a></p>
 
-<br>
-
 ## 💫 About Me:
 
 - 🎓 I am Dominic Esguerra, an IT Graduate from [Cavite State University CCAT](https://cvsu-rosario.edu.ph/).
